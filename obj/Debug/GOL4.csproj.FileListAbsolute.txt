@@ -1,0 +1,11 @@
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\bin\Debug\GOL4.exe.config
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\bin\Debug\GOL4.exe
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\bin\Debug\GOL4.pdb
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\obj\Debug\GOL4.csproj.AssemblyReference.cache
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\obj\Debug\GOL4.Form1.resources
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\obj\Debug\GOL4.Properties.Resources.resources
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\obj\Debug\GOL4.csproj.GenerateResource.cache
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\obj\Debug\GOL4.csproj.CoreCompileInputs.cache
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\obj\Debug\GOL4.exe
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\obj\Debug\GOL4.pdb
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\GOL4\GOL4\obj\Debug\GOL4.unisettings.resources
